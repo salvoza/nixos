@@ -171,6 +171,7 @@ boot.loader = {
   git-crypt
   gnupg
   btop
+  pkgs.jetbrains-mono
   #pkgs.cameractrls-gtk4
   ];
 
